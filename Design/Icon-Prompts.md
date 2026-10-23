@@ -1,0 +1,11 @@
+# Folio icon
+
+Created with the built-in image generation tool. Source: `Folio-Icon.png`. Xcode assets: `Folio/Assets.xcassets/AppIcon.appiconset`. Smaller PNGs were resized with macOS sips.
+
+## Generation prompt
+
+Use case: logo-brand. Asset type: production macOS app icon for Folio, a premium native writing app. Create ONE square 1024x1024 icon asset, straight-on orthographic view, not a presentation board. Design a bold, beautifully simple folded ivory page emblem: one upright page with its upper-right corner folded over and two short, softly rounded bronze horizontal strokes subtly suggesting the letter F. The paper should feel like luminous frosted glass with substantial rounded edges and restrained realistic depth. Place the emblem centrally on a warm off-white macOS rounded-square tile with a delicate champagne rim and subtle soft contact shadow. Icon tile occupies about 90% of the canvas; actual transparent alpha outside the rounded tile, not a checkerboard or white scene. The page silhouette occupies around 62% of tile height, strong and recognizable at small Dock sizes. Soft upper-left lighting, precise polished geometry, calm warm ivory, muted bronze and champagne palette, very gentle refraction. Modern Apple-quality material craft, understated Liquid Glass influence, tasteful dimensionality, generous negative space. No wordmark, no text labels, no pen, no quill, no additional symbols, no sparkles, no ornamental lines, no floating scenery, no multiple variants, no background outside the icon tile.
+
+## Refinement prompt
+
+Refine the Folio app icon just generated. Keep the exact centered folded-page emblem, two horizontal bronze strokes, rounded-square ivory tile, framing, and overall geometry. Change ONLY finish and edge quality: make bronze surfaces smooth satin muted bronze without grain or hammering; slightly reduce gold saturation; remove ALL stray pixels, flecks, yellow/white artifacts and noise outside the rounded tile. The outer silhouette must be perfectly smooth and crisp. Outside the tile must be genuinely transparent alpha with completely clean empty corners. Keep subtle frosted-glass depth and soft warm ivory highlights. One production icon, 1024x1024 square, no text or extra elements.
